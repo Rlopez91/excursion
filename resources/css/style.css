@@ -1,0 +1,33 @@
+*{
+  font-family: verdana;
+  text-align: center;
+  background-color: black;
+}
+
+h1, h2{
+  color: white;
+}
+
+.top-header{
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p{
+  font-size: 21px;
+  color: gray;
+}
+
+.links{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.copyright{
+  text-align: right;
+}
